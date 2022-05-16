@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="flex flex-col text-gray-800 text-center w-full">
+    <div className="flex flex-col text-gray-800 text-center my-12 w-full">
       <div className="w-16 h-16 mx-auto mt-12 mb-2">
         <img src="https://i.ibb.co/5WpZ62y/logo512.png" alt="logo512" />
       </div>
