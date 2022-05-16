@@ -1,8 +1,14 @@
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline text-emerald-500">
-      Hello world!
-    </h1>
+    <div className="flex flex-col bg-gray-800 text-center h-full w-full">
+      <div className="w-16 h-16 mx-auto mt-24 mb-4">
+        <img src="https://i.ibb.co/5WpZ62y/logo512.png" alt="logo512" />
+      </div>
+      <div className="flex flex-col">
+        <h1 className="text-2xl text-white font-bold">Turage</h1>
+        <p className="text-md text-white">Your #1 Ride Sharing App</p>
+      </div>
+    </div>
   );
 }
 
