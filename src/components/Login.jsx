@@ -1,6 +1,6 @@
 const Login = () => {
   return (
-    <div class="container px-5 py-2 mx-auto flex flex-wrap items-center">
+    <div class="container px-5 py-2 mx-auto flex flex-wrap items-center mt-16">
       <div class="lg:w-2/6 md:w-1/2 rounded-lg p-8 flex flex-col md:mx-auto w-full">
         <h2 class="text-gray-900 text-lg font-medium title-font mb-5">
           Log In
